@@ -1,0 +1,9 @@
+# Fdb version 4
+["pdflatex"] 0 "d:/CV/cv.tex" "cv.pdf" "cv" 0 -1
+  "cv.aux" 0 -1 0 "pdflatex"
+  "d:/CV/cv.tex" 0 -1 0 ""
+  (generated)
+  "cv.aux"
+  "cv.log"
+  "cv.pdf"
+  (rewritten before read)
